@@ -1,5 +1,3 @@
-// src/app.ts
-
 import express from 'express';
 import tasksRoutes from './routes/taskRoutes';
 

@@ -1,5 +1,3 @@
-// src/routes/tasksRoutes.ts
-
 import { Router } from 'express';
 import { getAllTasks } from '../controllers/taskControllers';
 

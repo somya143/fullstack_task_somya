@@ -1,5 +1,3 @@
-// src/server.ts
-
 import http from 'http';
 import WebSocket from 'ws';
 import app from './app';
